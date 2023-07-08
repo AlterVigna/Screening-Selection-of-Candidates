@@ -1,0 +1,1 @@
+The two datasets have been compressed to a 7Zip file. Before starting to work with, be sure to extract them and put in the raw Dataset folder.
