@@ -5,6 +5,6 @@ The project aim is to demonstrate skills on NLP techniques, and to answer busine
 
 - Project_Vigna.ipynb is the starting point: contains all the steps described in the documentation.
 - Clustering.ipynb contains all the clustering techniques used during unsupervised learning. 
-- NLP.ipynb contains all utilities used for manipulating textual data.
-- Plotting.ipynb contains all the function used for plotting results.
+- NLP.ipynb contains all the methods used for manipulating textual data.
+- Plotting.ipynb contains all the functions used for plotting results.
 - Utilities.ipynb contains other methods used in various point in the code.
